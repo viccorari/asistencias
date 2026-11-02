@@ -1,4 +1,5 @@
 # Asistencias
+HOLA PROFE
 
 Aplicación web para tomar lista y llevar el control de asistencia de cualquier grupo: una clase,
 un equipo, un turno. Se instala como app en el móvil o el ordenador, funciona sin conexión y no
